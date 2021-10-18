@@ -1,0 +1,226 @@
+[
+  {
+    "date": "2021-09-18T16:09:54",
+    "price": "88.00",
+    "dailyAverage": 88.0,
+    "dailyVariance": 0,
+    "volatilityalert": false
+  },
+  {
+    "date": "2021-09-19T00:09:54",
+    "price": "386.00",
+    "dailyAverage": 316.125,
+    "dailyVariance": 78928.69642857143,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-20T00:09:54",
+    "price": "107.00",
+    "dailyAverage": 323.4166666666667,
+    "dailyVariance": 39622.688405797104,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-21T00:09:54",
+    "price": "576.00",
+    "dailyAverage": 290.25,
+    "dailyVariance": 35830.36956521739,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-22T00:09:54",
+    "price": "562.00",
+    "dailyAverage": 357.6666666666667,
+    "dailyVariance": 49175.27536231884,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-23T00:09:54",
+    "price": "660.00",
+    "dailyAverage": 346.0,
+    "dailyVariance": 46705.47826086957,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-24T00:09:54",
+    "price": "389.00",
+    "dailyAverage": 494.625,
+    "dailyVariance": 35185.635869565216,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-25T00:09:54",
+    "price": "126.00",
+    "dailyAverage": 335.5,
+    "dailyVariance": 49396.086956521736,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-26T00:09:54",
+    "price": "593.00",
+    "dailyAverage": 393.4166666666667,
+    "dailyVariance": 35885.64492753623,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-27T00:09:54",
+    "price": "340.00",
+    "dailyAverage": 320.125,
+    "dailyVariance": 42941.766304347824,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-28T00:09:54",
+    "price": "598.00",
+    "dailyAverage": 326.9583333333333,
+    "dailyVariance": 33103.95471014493,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-29T00:09:54",
+    "price": "684.00",
+    "dailyAverage": 341.5,
+    "dailyVariance": 53486.434782608696,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-09-30T00:09:54",
+    "price": "442.00",
+    "dailyAverage": 456.25,
+    "dailyVariance": 35272.282608695656,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-01T00:09:54",
+    "price": "163.00",
+    "dailyAverage": 460.9583333333333,
+    "dailyVariance": 43516.215579710144,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-02T00:09:54",
+    "price": "211.00",
+    "dailyAverage": 417.2916666666667,
+    "dailyVariance": 40850.82427536232,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-03T00:09:54",
+    "price": "22.00",
+    "dailyAverage": 346.1666666666667,
+    "dailyVariance": 42694.75362318841,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-04T00:09:54",
+    "price": "625.00",
+    "dailyAverage": 324.9166666666667,
+    "dailyVariance": 39465.64492753623,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-05T00:09:54",
+    "price": "554.00",
+    "dailyAverage": 411.125,
+    "dailyVariance": 35653.41847826087,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-06T00:09:54",
+    "price": "671.00",
+    "dailyAverage": 338.7916666666667,
+    "dailyVariance": 40496.17210144927,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-07T00:09:54",
+    "price": "619.00",
+    "dailyAverage": 427.8333333333333,
+    "dailyVariance": 41673.97101449275,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-08T00:09:54",
+    "price": "625.00",
+    "dailyAverage": 378.6666666666667,
+    "dailyVariance": 43938.666666666664,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-09T00:09:54",
+    "price": "564.00",
+    "dailyAverage": 360.2916666666667,
+    "dailyVariance": 39975.43297101449,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-10T00:09:54",
+    "price": "447.00",
+    "dailyAverage": 276.0416666666667,
+    "dailyVariance": 56639.95471014493,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-11T00:09:54",
+    "price": "178.00",
+    "dailyAverage": 400.3333333333333,
+    "dailyVariance": 22392.31884057971,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-12T00:09:54",
+    "price": "393.00",
+    "dailyAverage": 391.9583333333333,
+    "dailyVariance": 41840.30253623188,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-13T00:09:54",
+    "price": "514.00",
+    "dailyAverage": 370.2083333333333,
+    "dailyVariance": 49065.9981884058,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-14T00:09:54",
+    "price": "460.00",
+    "dailyAverage": 385.875,
+    "dailyVariance": 37772.809782608696,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-15T00:09:54",
+    "price": "47.00",
+    "dailyAverage": 420.125,
+    "dailyVariance": 45105.940217391304,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-16T00:09:54",
+    "price": "21.00",
+    "dailyAverage": 281.75,
+    "dailyVariance": 45730.02173913043,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-17T00:09:54",
+    "price": "122.00",
+    "dailyAverage": 375.5833333333333,
+    "dailyVariance": 47151.557971014496,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-18T00:09:54",
+    "price": "214.00",
+    "dailyAverage": 349.4583333333333,
+    "dailyVariance": 42770.69384057971,
+    "volatilityalert": true
+  },
+  {
+    "date": "2021-10-18T15:09:54",
+    "price": "513.00",
+    "dailyAverage": 401.6470588235294,
+    "dailyVariance": 31966.117647058825,
+    "volatilityalert": true
+  }
+]
