@@ -1,0 +1,81 @@
+This is an API with the last 30 days by hour of bitcoin prices.
+ 
+https://api.coinranking.com/v1/public/coin/1/history/30d
+ 
+Reading that API, output data in the following schemas:
+ 
+Schema 1:
+ 
+ 
+ 
+{
+ 
+    "date": "{date}",
+ 
+    "price": "{value}",
+ 
+    "direction": "{up/down/same}",
+ 
+    "change": "{amount}",
+ 
+    "dayOfWeek": "{name}",
+ 
+    "highSinceStart": "{true/false}",
+ 
+    "lowSinceStart": "{true/false}"
+ 
+}
+ 
+- one entry per day at "00:00:00" hours
+ 
+- results ordered by oldest date first.
+ 
+- "date" in format "2019-03-17T00:00:00"
+ 
+- "price" in 2 decimal dollars
+ 
+- "direction" is direction of price change since previous day in the list, first day can be "na" ({up/down/same})
+ 
+- "change" is the price difference between current and previous day. "na" for first
+ 
+- "dayOfWeek" is name of the day (Saturday, Tuesday, etc)
+ 
+- "highSinceStart" true/false if highest since list start. "na" for first
+ 
+- "highSinceStart" true/false if lowest since list start. "na" for first
+ 
+ 
+ 
+Schema 2:
+ 
+ 
+ 
+{
+ 
+    "date": "{date}",
+ 
+    "price": "{value}",
+ 
+    "dailyAverage": "{value}",
+ 
+    "dailyVariance": "{value}",
+ 
+    "volatilityAlert:": "{true/false}"
+ 
+}
+ 
+ 
+ 
+- one entry per day
+ 
+- results ordered by oldest date first.
+ 
+- "date" in format "2019-03-17T00:00:00"
+ 
+- "price" in 2 decimal dollars
+ 
+- "dailyAverage" average of all entries for that day
+ 
+- "dailyVariance" variance of all entries for that day
+ 
+- "volatilityAlert:" true/false if any price that day is outside 2 standard deviations.
